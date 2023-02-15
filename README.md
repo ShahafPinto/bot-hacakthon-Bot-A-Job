@@ -1,4 +1,4 @@
-# Job Quest Bot
+# Bot A Job
 
 ## The Team
 - Barr Grace
@@ -13,6 +13,8 @@ get information about companies.
 
 
 - Link to the bot : http://t.me/Job_Quest_bot
+#### Video
+
 
 #### Menu
 ![img.png](img.png)
